@@ -1,8 +1,4 @@
-Task No. 1
-implement the solution of the function using
-of the usual function and the possibility of setting the values of formal parameters according to
-silencing
-Program code No. 1
+
 ConsoleApplication1.cpp
 #include <iostream>
 #include "calculate.h"
@@ -25,15 +21,7 @@ a = 1 + l / 3;
 calculate.h
 #pragma once
 void calculate(double x, double& l, double& a);
-Task No. 2
 
-Calculate
-
-Solve either using pointers or with
-using variable addressing. Output of calculation results to the screen
-organize using separate functions. At the junction
-task is to form the file structure of the project!!!
-Program code No. 2
 
 ConsoleApplication1.cpp
 #include <iostream>
@@ -77,13 +65,12 @@ cout << "b = " << result << endl;
 print_result.h
 #pragma once
 void print_result(double result);
-Task No. 3
-Calculate the length of the circle inscribed in an equilateral triangle with
-side a
-Output of calculation results to the screen can be organized with the help of separate functions.
-When solving problems, it is necessary to form the file structure of the project!!!
 
-Program code No. 3
+
+
+
+
+
 
 ConsoleApplication1.cpp
 #include <iostream>
