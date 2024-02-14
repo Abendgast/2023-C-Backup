@@ -1,7 +1,4 @@
-Task No. 1
-Write a program that inputs and outputs variables of all standard data types from
-using format I/O (#include <stdio.h>)
-Program code No. 1
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
@@ -52,12 +49,11 @@ printf("Entered maximum precision floating point number: %Lf\n",
 longDoubleNumber);
 return 0;
 }
-Task No. 2
-Write a program that inputs and outputs variables of all standard data types from
-using streaming I/O operations (#include <iostream>). Use
-as well as output and stream redirection operations to work with
-files
-Program code No. 2
+
+
+
+
+
 
 #include <iostream>
 #include <fstream>
