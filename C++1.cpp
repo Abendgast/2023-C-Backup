@@ -1,5 +1,4 @@
-1 Task: Write a linear algorithm
-Program code No. 1
+
 #include <iostream>
 int main() {
 //Write test to screen
@@ -9,8 +8,10 @@ return 0:
 }
 Task No. 2
 
-Write an algorithm with branching
-Program code No. 2
+
+
+
+  
 
 #include <iostream>
 int main() {
@@ -25,10 +26,12 @@ else
 std::cout << "Zero" << std::endl;
 return 0;
 }
-Task No. 3
 
-Write a While loop
-Program code No. 3
+
+
+
+
+
 
 #include <iostream>
 int main() {
