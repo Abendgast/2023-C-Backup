@@ -1,6 +1,4 @@
-Calculate the value of the product for an expression with arbitrary initial data, without
-using arrays.
-Program code No. 1
+
 
 #include <iostream>
 #include <Windows.h>
@@ -25,15 +23,12 @@ cout << "Result: " << result << endl;
 system("pause");
 return 0;
 }
-Task No. 2
 
-The program should provide for the use of format output and explanatory text
-information The solution can be implemented in two ways: in the first, use it
-the for loop operator, and in the second to organize a cyclic calculation for
-using the if operator.
-Program code No. 2
 
-Using the for operator
+
+
+
+
 #include <iostream>
 #include <cmath>
 #include <Windows.h>
@@ -56,7 +51,12 @@ calculate the integral
 cout << "The value of the integral: " << integral <<endl;
 return 0;
 }
-Using the if statement
+
+
+
+
+
+
 #include <iostream>
 #include <cmath>
 #include <Windows.h>
