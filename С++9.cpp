@@ -1,11 +1,4 @@
-Task No. 1
-Write a program to solve the problem.
 
-Display the result on the screen with
-using formatted output in an easy-to-understand form. For
-solution to use, at a minimum, separate functions: for input/output of the array and
-array processing relative to the task.
-Program code No. 1
 
 #include <iostream>
 #include <cmath>
