@@ -1,8 +1,6 @@
-Task No. 1
-There is a two-dimensional array of dimensions N × N, where N = 35. Sort all
-elements of the main diagonal using the descending insertion method.
 
-Program code No. 1
+
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
