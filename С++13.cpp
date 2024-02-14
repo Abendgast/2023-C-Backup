@@ -1,7 +1,4 @@
-Task No. 1
-Given a sentence. Write a program that defines and displays it on the screen
-the longest word (assume that such a word is one).
-Program code No. 1
+
 
 #include <iostream>
 #include <string>
@@ -32,12 +29,11 @@ longestWord = currentWord;
 cout << "Longest word: " << longestWord << endl;
 return 0;
 }
-Task No. 2
-The specified character string. Groups of characters that are separated by a space i are not
-contain gaps, are called words. Count the number of words in
-given line.
 
-Program code No. 2
+
+
+
+
 
 #include <iostream>
 #include <string>
