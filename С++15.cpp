@@ -1,13 +1,4 @@
-Task No. 1
-Write a problem solving program. Develop benchmarks and
-test the program with their help. Enter the input data in the form
-a separate text file.
-The array of structures marks information about 26 people: surname; name; sex;
-growth; weight. Read the data from the file and display the last names of all persons on the screen
-male, whose weight and height exceed those entered from the keyboard
-value.
 
-Program code No. 1
 
 #include <iostream>
 #include <fstream>
@@ -67,20 +58,18 @@ cout << "Nobody fits." << endl;
 }
 return 0;
 }
-Task No. 2
-Write a problem solving program. Develop benchmarks and
-test the program with their help. Enter the input data in the form
-separate structured file. The program should enable
-the user can work with the file in the form of a text menu:
-• create a new file and enter data;
 
-• open an existing file;
-• view the contents of the file;
-• edit data;
-• search for data in one of the fields (select the field yourself);
-• delete data.
 
-Program code No. 2
+
+
+
+
+
+
+
+
+
+
 
 #include <iostream>
 #include <fstream>
