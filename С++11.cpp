@@ -1,9 +1,4 @@
- 
-Solve the problem in two ways: using
-file pointers and using stream operations.
-Program code No. 1
 
-using file pointers
 
 #include <cstdio>
 #include <cmath>
@@ -38,9 +33,12 @@ printf("Error opening file!!!.\n");
 }
 return 0;
 }
-Program code No. 1
 
-With the use of streaming operations
+
+
+
+
+
 
 #include <iostream>
 #include <fstream>
