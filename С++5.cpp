@@ -1,6 +1,4 @@
-Task No. 1
-Calculate the value of the function
-Program code No. 1
+
 #include <iostream>
 #include <cmath>
 #include <Windows.h>
@@ -31,9 +29,12 @@ result = tan((phi + b) / 3);
 cout << "The value of the function c(phi) is: " << result << endl;
 return 0;
 }
-Task No. 2
-Check if the point with the given coordinates is inside
-area shown in the picture and display the corresponding message.
+
+
+
+
+
+
 #include <iostream>
 #include <cmath>
 #include <Windows.h>
@@ -72,13 +73,10 @@ cout << "No, the point is not inside the circle." << endl;
 }
 return 0;
 }
-Task No. 3
-Calculate the problem
-There are three tanks of different capacities, each of which is filled with fuel to
-known volumes. Determine the number of the first tank in order, where
-you can pump all the fuel. If pumping is not possible, then
-print the text "not possible".
-Program code No. 3
+
+
+
+
 
 #include <iostream>
 #include <Windows.h>
