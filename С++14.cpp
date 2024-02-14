@@ -1,9 +1,4 @@
-Task No. 1
-Without declaring an array, enter a group of data, output their total
-quantity, ordinal numbers and the value of numbers in reverse order.
-The sign of the end of entering numbers is 0.
 
-Program code No. 1
 
 #include <iostream>
 #include <stack>
