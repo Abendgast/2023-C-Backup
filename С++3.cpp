@@ -1,5 +1,4 @@
- Formula calculation problem
-Program code No. 1
+
 #include <stdio.h>
 #include <math.h>
 #include <Windows.h>
@@ -17,8 +16,10 @@ printf("l = %f\n", l);
 printf("a = %f\n", a);
 return 0;
 }
-Formula calculation problem
-Program code No. 2
+
+
+
+
 
 #include <iostream>
 #include <cmath>
@@ -32,10 +33,11 @@ double b = x + (pow(sin(abs(y)), 2)) / (3.0 / 5.0 + pow(cos(pow(z, 2)), 2));
 std::cout << "b = " << b << std::endl;
 return 0;
 }
-Task No. 3
-Calculate the length of the circle inscribed in an equilateral triangle with
-side a.
-Program code No. 3
+
+
+
+
+
 
 #include <iostream>
 #include <cmath>
