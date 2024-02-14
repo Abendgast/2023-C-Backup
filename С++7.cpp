@@ -1,7 +1,4 @@
-Task No. 1
 
-Write a program for solving the problem using the while loop operator
-Program code No. 1
 
 #include <iostream>
 #include <cmath>
@@ -32,12 +29,11 @@ cout << "The sum of the row: " << sum << endl;
 
 return 0;
 }
-Task No. 2
 
-Write a problem solving program using the do...while loop statement.
-Output the values of the function y = sin(ax) for x, which vary from 0 in steps of 0.05 to those
-period while the function increases. The value of a is entered from the keyboard.
-Program code No. 2
+
+
+
+
 
 #include <iostream>
 #include <cmath>
