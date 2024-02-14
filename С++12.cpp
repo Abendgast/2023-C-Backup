@@ -1,20 +1,4 @@
-Task No. 1
-Write a program that processes the binary file created by the program.
-The program should enable the user to work with
-file in the form of a text menu with 6-8 items:
-• display the entire content of the file in the form of a table;
-• find a given number and edit it;
-• remove the number from the specified position;
-• insert a number in the specified position;
-• solve the problem of an individual task; (Given a binary file with positive and
-negative real numbers. Determine which numbers are more and output the corresponding one
-message.)
-• display on the screen those elements that correspond to the given
-criteria (greater than a given number; less than a given number);
-• close the program.
-All binary file processing procedures can be implemented directly in
-files: the use of a separate one-dimensional array is not allowed!!!
-Program code
+
 
 #include <iostream>
 #include <fstream>
